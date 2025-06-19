@@ -11,4 +11,6 @@ Key Features:
 ### CodeDev Retro — The CodeDev for older Windows OSs
 CodeDev retro is a special edition of CodeDev built to support legacy systems like Windows 2000 and XP, Vista and 7. It includes all the essential features of CodeDev, with reduced UI complexity and lighter compilation to ensure smooth performance on older hardware.
 
-**Click here for releases: https://github.com/NeuroYott/CodeDev/releases**
+Click here for releases: https://github.com/NeuroYott/CodeDev/releases
+
+Copyright © 2021-2024 Niral Bhatt. All rights reserved.
