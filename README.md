@@ -13,4 +13,4 @@ CodeDev retro is a special edition of CodeDev built to support legacy systems li
 
 Click here for releases: https://github.com/NeuroYott/CodeDev/releases
 
-**Copyright © 2018-2025 Niral Bhatt. All rights reserved.**
+**Copyright © 2015-2025 Niral Bhatt. All rights reserved.**
